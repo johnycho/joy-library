@@ -1,0 +1,37 @@
+{
+  "animal": [
+    "bird.mp3",
+    "cat.mp3",
+    "cow.mp3",
+    "dog.mp3",
+    "frog.mp3"
+  ],
+  "fx": [
+    "coin.mp3",
+    "error.mp3",
+    "notify.mp3",
+    "pop.mp3",
+    "success.mp3"
+  ],
+  "inst": [
+    "bell.mp3",
+    "guitar.mp3",
+    "marimba.mp3",
+    "pad.mp3",
+    "piano.mp3"
+  ],
+  "melody": [
+    "doremi.mp3",
+    "march.mp3",
+    "ringtone.mp3",
+    "twinkle.mp3",
+    "waltz.mp3"
+  ],
+  "nature": [
+    "rain.mp3",
+    "stream.mp3",
+    "thunder.mp3",
+    "wave.mp3",
+    "wind.mp3"
+  ]
+}
